@@ -1,8 +1,7 @@
  /*--------------------- Copyright (c) 2019 ----------------------- 
-[Master Stylesheet] 
-Template Name: Cultivation- Multipurpose Responsive HTML template 
+[Master Stylesheet]  
 Version: 1.0.0
-Author: Kamleshyadav
+Author: TeddBot
 Website: 
 Purchase: 
  ------------------------------------------------------------------- 
@@ -191,8 +190,8 @@ ul{
 	display: inline-block;
 	text-align: center;
 	text-transform: capitalize;
-	background-color: #3f61f6;
-	border:1px solid #3f61f6;
+	background-color: #4f4cfc;
+	border:1px solid #4f4cfc;
 	border-radius: 5px;
 	font-size: 16px;
 	color: #ffffff;
@@ -201,7 +200,7 @@ ul{
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .clv_btn2:hover{
-	color: #3f61f6;
+	color: #4f4cfc;
 }
 .clv_btn2::before{
 	content: '';
@@ -722,14 +721,14 @@ ul{
     }
 }
 .clv_banner_slider .clv_slide{
-	background: url('../images/slider_bg1.jpg') no-repeat center;
+	background: url('../images/nat.jpg') no-repeat center;
 	background-size: cover;
 	padding: 272px 0px;
 	position: relative;	
 	z-index: 1;
 }
 .clv_banner_slider .clv_slide.slide2{
-	background: url('../images/slider_bg2.jpg') no-repeat center;
+	background: url('../images/nate.jpg') no-repeat center;
 	background-size: cover;
 }
 .clv_banner_slider .clv_slide:before{
@@ -811,7 +810,7 @@ ul{
 4. about start
  *******************************************************/
 .index_v1 .clv_about_wrapper{
-	background-image: url('https://via.placeholder.com/1920x1080');
+	background-image: url('https://drive.google.com/file/d/1ZMX0fFA5qHH-s3Nyk-GQwaQgDRmoDGtJ/preview');
 	background-size: contain;
 }
 .clv_about_wrapper .about_img img{
@@ -940,7 +939,7 @@ ul{
 	background-color: #f44026;
 }
 .clv_counter_wrapper .counter_block > .counter_img > span.yellow_bg{
-	background-color: #fec422;
+	background-color: #4f4cfc;
 }
 .clv_counter_wrapper .counter_block > .counter_img > span.orange_bg{
 	background-color: #ed6622;
@@ -3104,13 +3103,13 @@ ul{
 	color: #222222;
 }
 .index_v3 .search_box .search_block h3{
-	color: #3f61f6;
+	color: #4f4cfc;
 }
 .index_v3 .search_box .search_block .search_field > a{
-	background-color: #3f61f6;
+	background-color: #4f4cfc;
 }
 .search_box .search_block .search_close svg path{
-	fill: #3f61f6;
+	fill: #4f4cfc;
 }
 /*Header Start*/
 .index_v3 .header2_wrapper{
@@ -3145,7 +3144,7 @@ ul{
 	align-items: center;
 }
 .index_v3 .clv_right_header .clv_menu .cart_nav > ul > li > a{
-	color: #3f61f6;
+	color: #4f4cfc;
 	height: 100%;
     vertical-align: middle;
 }
@@ -3183,10 +3182,10 @@ ul{
 	padding-right: 0;
 }
 .index_v3 .clv_right_header .clv_menu .clv_menu_nav > ul > li > a:hover{
-	color: #3f61f6;
+	color: #4f4cfc;
 }
 .index_v3 .clv_right_header .clv_menu .cart_nav > ul > li > a.cart_toggle > span{
-	background-color: #3f61f6;
+	background-color: #4f4cfc;
 	color: #ffffff;
 }
 .index_v3 .clv_right_header .clv_menu .cart_nav > ul{
@@ -3201,19 +3200,19 @@ ul{
 	display: none;
 }
 .index_v3 .clv_right_header .clv_menu .clv_menu_nav > ul > li > ul{
-	border-bottom-color: #3f61f6;
+	border-bottom-color: #4f4cfc;
 }
 .index_v3 .clv_right_header .clv_menu .cart_nav ul > li > .clv_cart_box > a{
-	background-color: #3f61f6;
+	background-color: #4f4cfc;
 }
 .index_v3 .clv_right_header .clv_menu .clv_menu_nav > ul > li > ul > li > a:hover{
-	color: #3f61f6;
+	color: #4f4cfc;
 }
 .index_v3 .appointment_btn{
 	min-width: 170px;
 	height: 50px;
 	border-radius: 5px;
-	background-color: #3f61f6;
+	background-color: #22e000;
 	color: #ffffff;
 	border: 1px solid transparent;
 	text-transform: capitalize;
@@ -3223,9 +3222,9 @@ ul{
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .index_v3 .appointment_btn:hover{
-	border-color: #3f61f6;
+	border-color: #22e000;
 	background-color: transparent;
-	color: #3f61f6;
+	color: #22e000;
 }
 .index_v3 .clv_right_header .clv_menu .cart_nav ul > li > .clv_cart_box{
 	right: 0;
@@ -3233,7 +3232,7 @@ ul{
 /*Header End*/
 /*Banner Start*/
 .index_v3 .clv_banner_slider .clv_slide{
-	background: url('https://via.placeholder.com/1920x1080') no-repeat center;
+	background: url('../images/nate.jpg') no-repeat center;
 	background-size: cover;
 	padding: 312px 0px; 
 }
@@ -3241,7 +3240,7 @@ ul{
 	background-color: rgba(27, 27, 27, 0.8);
 }
 .index_v3 .clv_banner_slider .clv_slide.slide2{
-	background: url('https://via.placeholder.com/1920x1080') no-repeat center;
+	background: url('../images/nat.jpg') no-repeat center;
 	background-size: cover;
 }
 .index_v3 .clv_banner_slider .clv_slide .clv_slide_inner h1{
@@ -3271,7 +3270,7 @@ ul{
 	right: 22px;
 }
 .index_v3 .clv_banner_slider .slider_arrow:hover{
-	background-color: #3f61f6;
+	background-color: #4f4cfc;
 }
 .index_v3 .clv_banner_slider .slider_arrow:hover > svg > path{
 	fill: #ffffff;
@@ -3296,7 +3295,7 @@ ul{
 }
 .index_v3 .dairy_about_inner .about_content .about_heading > h2 > span{
 	font-weight: 700;
-	color: #3f61f6;
+	color: #4f4cfc;
 }
 .index_v3 .dairy_about_inner .about_content .about_heading > .clv_underline{
 	margin: 9px 0px 17px;
@@ -3307,7 +3306,7 @@ ul{
 .index_v3 .dairy_counter_wrapper{
 	display: flex;
     padding: 30px 20px;
-    background-color: #3f61f6;
+    background-color: #4f4cfc;
     border-radius: 10px;
     margin-top: 44px;
     margin-left: -310px;
@@ -3450,7 +3449,7 @@ ul{
 }
 .dairy_product_inner .dairy_product_block .product_content a{
 	font-weight: 700;
-	color: #3f61f6;
+	color: #4f4cfc;
 	text-transform: capitalize;
 	text-decoration: underline;
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
@@ -3496,8 +3495,8 @@ ul{
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .service_content .service_heading .service_arrow_block .dairy_service_arrow:hover{
-	background-color: #3f61f6;
-	border-color: #3f61f6;
+	background-color: #4f4cfc;
+	border-color: #4f4cfc;
 }
 .service_content .service_heading .service_arrow_block .dairy_service_arrow:hover > svg > path{
 	fill: #ffffff;
@@ -3535,10 +3534,10 @@ ul{
 	padding:0 15px;
 }
 .index_v3 .gallery_slider .swiper-pagination-bullet{
-	border: 2px solid #3f61f6;
+	border: 2px solid #4f4cfc;
 }
 .index_v3 .gallery_slider .swiper-pagination-bullet.swiper-pagination-bullet-active{
-	background-color: #3f61f6;
+	background-color: #4f4cfc;
 }
 .index_v3 .gallery_slide .gallery_grid .gallery_grid_item .gallery_image .gallery_overlay{
 	background-color: rgba(63,97,246,0.8);
@@ -3561,22 +3560,22 @@ ul{
 	margin-bottom: 10px;
 }
 .index_v3 .shop_slider .shop_slide > h6{
-	color: #3f61f6;
+	color: #4f4cfc;
 }
 .index_v3 .shop_slider .shop_slide .item_overlay{
 	background-color: rgba(63,97,246,0.9);
 }
 .index_v3 .shop_slider .shop_slide .item_overlay > .shop_btn{
-	color: #3f61f6;
+	color: #4f4cfc;
 }
 .index_v3 .shop_slider .shop_slide .item_overlay > .shop_btn:hover{
 	color: #ffffff;
 }
 .index_v3 .clv_shop_wrapper .shop_slider .slider_arrow:hover{
-	border-color: #3f61f6;
+	border-color: #4f4cfc;
 }
 .index_v3 .clv_shop_wrapper .shop_slider .slider_arrow:hover > svg > path{
-	fill: #3f61f6;
+	fill: #4f4cfc;
 }
 /*Dairy Shop End*/
 /*Dairy Testimonial Start*/
@@ -3628,7 +3627,7 @@ ul{
 	position: relative;
 	position: relative;
 	z-index: 1;
-	background-color: #3f61f6;
+	background-color: #4f4cfc;
 	border-radius: 10px;
 	padding: 40px 40px;
 	text-align: center;
@@ -3640,7 +3639,7 @@ ul{
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: url('https://via.placeholder.com/770x301') no-repeat center;
+	background: url('../srcimages/dusk.jpg') no-repeat center;
 	background-size: cover;
 	z-index: -1;
 	border-radius: 10px;
@@ -3681,16 +3680,16 @@ ul{
 	border: 1px solid #ebebeb;
 }
 .index_v3 .right_blog_section .right_blog_block .right_blog_content .agri_blog_date{
-	color: #3f61f6;
+	color: #4f4cfc;
 }
 .index_v3 .right_blog_block .blog_user .comment_block span{
-	color: #3f61f6;
+	color: #4f4cfc;
 }
 .index_v3 .right_blog_section .right_blog_block .right_blog_content h3 > a:hover{
-	color: #3f61f6;
+	color: #4f4cfc;
 }
 .index_v3 .right_blog_block .right_blog_content > a:hover{
-	color: #3f61f6;
+	color: #4f4cfc;
 }
 /*Dairy Blog End*/
 /*Dairy Team Start*/
@@ -3726,7 +3725,7 @@ ul{
 	transition: all 0.4s ease-in-out;
 }
 .dairy_team_slider .team_slide:hover .team_details{
-	background-color: #3f61f6;
+	background-color: #4f4cfc;
 	max-height: calc(165px + 66px);
 }
 .team_slide .team_details .team_name_block{
@@ -3762,7 +3761,7 @@ ul{
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .team_slide .team_details .team_name_block .team_name span{
-	color: #3f61f6;
+	color: #4f4cfc;
 	text-transform: capitalize;
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
@@ -3822,7 +3821,7 @@ ul{
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .dairy_team_slider .slider_arrow:hover{
-    border-color: #3f61f6;
+    border-color: #4f4cfc;
 }
 .dairy_team_slider .slider_arrow.right_arrow{
 	left: auto;
@@ -3838,7 +3837,7 @@ ul{
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .dairy_team_slider .slider_arrow:hover > svg > path{
-	fill: #3f61f6;
+	fill: #4f4cfc;
 }
 /*Dairy Team End*/
 /*Dairy Partner Start*/
@@ -3847,28 +3846,28 @@ ul{
 	padding-bottom: 100px;
 }
 .index_v3 .partner_slider .partner_slide .partner_image:hover{
-	background-color: #3f61f6;
-	border-color: #3f61f6;
+	background-color: #4f4cfc;
+	border-color: #4f4cfc;
 }
 .index_v3 .partner_slider .slider_arrow:hover{
-	border-color: #3f61f6;
+	border-color: #4f4cfc;
 }
 .index_v3 .partner_slider .slider_arrow:hover > svg > path{
-	fill: #3f61f6;
+	fill: #4f4cfc;
 }
 /*Dairy Partner End*/
 /*Dairy Newsletter Start*/
 .index_v3 .clv_newsletter_wrapper{
 	margin: 0;
 	margin-bottom: 93px;
-	background-color: #3f61f6;
+	background-color: #4f4cfc;
 	border-radius: 0px 0px 20px 20px;
 }
 /*Dairy Newsletter End*/
 /*Dairy Footer Start*/
 .index_v3 .clv_footer_wrapper{
 	padding: 0;
-	background: url(../images/dairy_footer_bg.jpg) no-repeat center;
+	background: url(../srcimages/op.jpg) no-repeat center;
 	background-size: contain;
 	z-index: 1;
 	position: relative;
@@ -3887,11 +3886,11 @@ ul{
 	margin-bottom: 14px;
 }
 .index_v3 .clv_footer_wrapper .footer_block .useful_links > li > a:hover{
-	color: #3f61f6;
+	color: #4f4cfc;
 	text-decoration: underline;
 }
 .index_v3 .clv_footer_wrapper .footer_block h6{
-	color: #3f61f6;
+	color: #4f4cfc;
 }
 .footer_post_section{
 	height: 100%;
@@ -3906,7 +3905,7 @@ ul{
 	background: #4c4b49;
 }
 .footer_post_section::-webkit-scrollbar-thumb {
-  background: #3f61f6;
+  background: #4f4cfc;
 }
 .footer_post_section .footer_post_slide{
 	position: relative;
@@ -3923,7 +3922,7 @@ ul{
 .index_v3 .footer_post_section .footer_post_slide .footer_post_content span{
 	font-size: 14px;
 	text-transform: capitalize;
-	color: #3f61f6;
+	color: #4f4cfc;
 }
 .index_v3 .footer_post_section .footer_post_slide .footer_post_content p{
 	margin: 0;
@@ -3936,7 +3935,7 @@ ul{
 	margin-top: 81px;
 }
 .index_v3 .clv_copyright_wrapper p > a{
-	color: #3f61f6;
+	color: #4f4cfc;
 }
 /*Dairy Copyright End*/
 /********************************************************
@@ -8842,7 +8841,7 @@ ul{
 	color: #ffffff;
 }
 .signup_wrapper > .signup_inner > .signup_details > .clv_btn{
-	color: #4f4cfc;
+	color: #00db0b;
 }
 .signup_wrapper > .signup_inner > .signup_details > .clv_btn:hover{
 	color: #ffffff;
@@ -8879,7 +8878,7 @@ ul{
 }
 .signup_wrapper > .signup_inner > .signup_details > ul > li > a:hover{
 	background-color: #ffffff;
-	color: #4f4cfc;
+	color: #00db0b;
 }
 .signup_wrapper > .signup_inner > .signup_form_section{
 	width: 60%;
@@ -8904,10 +8903,10 @@ ul{
 	margin-top: 10px;
 }
 .signup_wrapper > .signup_inner > .signup_form_section > .clv_btn::before{
-	background-color: #4f4cfc !important;
+	background-color: #00db0b !important;
 }
 .signup_wrapper > .signup_inner > .signup_form_section > .clv_btn::after{
-	border-color: #4f4cfc !important;
+	border-color: #00db0b !important;
 }
 .social_button_section{
 	text-align: center;
@@ -9075,7 +9074,7 @@ ul{
 	color: #ffffff;
 }
 .signin_wrapper > .signup_inner > .signup_details > .clv_btn{
-	color: #4f4cfc;
+	color: #00db0b;
 }
 .signin_wrapper > .signup_inner > .signup_details > .clv_btn:hover{
 	color: #ffffff;
@@ -9112,7 +9111,7 @@ ul{
 }
 .signin_wrapper > .signup_inner > .signup_details > ul > li > a:hover{
 	background-color: #ffffff;
-	color: #4f4cfc;
+	color: #00db0b;
 }
 .signin_wrapper > .signup_inner > .signup_form_section{
 	width: 60%;
@@ -9214,7 +9213,7 @@ ul{
 	width: 80px;
 	height: 80px;
 	border-radius: 50%;
-	background-color: #4f4cfc;
+	background-color: #02f21e;
 	box-shadow: 0 0 0 0 rgba(254, 192, 7, 0.6);
 	animation: pulse4 2s infinite;
 }
