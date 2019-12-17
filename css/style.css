@@ -1126,7 +1126,7 @@ ul{
 *******************************************************/
 .clv_testimonial_wrapper{
 	position: relative;
-	background: url('https://via.placeholder.com/1920x950') no-repeat center;
+	background: url('../srcimages/m.jpg') no-repeat center;
 	background-size: cover;
 	z-index: 1;
 	padding: 90px 0px 60px;
@@ -1888,8 +1888,8 @@ ul{
 	padding-top: 200px;
 	padding-bottom: 96px;
 	background-color: #1c232c;
-	background-image: url('https://via.placeholder.com/1920x1080	');
-	background-size: contain;
+	background-image: url('../srcimages/op.jpg	');
+	background-size: 
 }
 .clv_footer_wrapper img.foot_girl {
     position: absolute;
