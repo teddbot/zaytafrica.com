@@ -901,7 +901,7 @@ ul{
  *******************************************************/
 .clv_counter_wrapper{
 	position: relative;
-	background: url('https://via.placeholder.com/1920x950') no-repeat center;
+	background: url('../srcimages/counter.jpg') no-repeat center;
 	background-size: cover;
 	padding: 88px 0px 96px;
 	z-index: 1;
@@ -6847,7 +6847,7 @@ ul{
 /*Breadcrumb Start*/
 .breadcrumb_wrapper{
 	position: relative;
-	background: url('https://via.placeholder.com/1920x160') no-repeat center;
+	background: url('../srcimages/banner.jpg') no-repeat center;
 	background-size: cover;
 	padding: 63px 0px 57px;
 	z-index: 1;
