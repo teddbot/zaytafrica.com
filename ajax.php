@@ -23,8 +23,8 @@ if(isset($_POST) && !empty($_POST)){
 	}
 	
 	if($sendMessage != ''){
-		$fromEmail = 'support@cultivation.com';
-		$toEmail = 'sourabh.sharma@himanshusofttech.com';
+		$fromEmail = 'mail@zaytafrica.com';
+		$toEmail = '';
 		
 		$headers = "MIME-Version: 1.0" . "\r\n";
 		$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
