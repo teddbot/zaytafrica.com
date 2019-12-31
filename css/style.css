@@ -1,4 +1,4 @@
- /*--------------------- Copyright (c) 2019 ----------------------- 
+ /*--------------------- Copyright (c) 2020 ----------------------- 
 [Master Stylesheet]  
 Version: 1.0.0
 Author: TeddBot
@@ -226,6 +226,7 @@ ul{
  /********************************************************
 2. header start
  *******************************************************/
+
 .clv_main_wrapper{
 	position: relative;
 }
@@ -283,6 +284,7 @@ ul{
 .clv_right_header .clv_menu .clv_menu_nav{
 	padding: 0px 20px;
 	padding-right: 10px;
+  
 }
 .clv_right_header .clv_menu .clv_menu_nav > ul > li {
 	display: inline-block;
