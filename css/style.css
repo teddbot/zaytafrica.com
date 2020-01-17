@@ -1890,7 +1890,7 @@ ul{
 	padding-top: 200px;
 	padding-bottom: 96px;
 	background-color: #1c232c;
-	background-image: url('../srcimages/op.jpg	');
+	background-image: url('../srcimages/op3.jpg	');
 	background-size: 
 }
 .clv_footer_wrapper img.foot_girl {
@@ -3234,7 +3234,7 @@ ul{
 /*Header End*/
 /*Banner Start*/
 .index_v3 .clv_banner_slider .clv_slide{
-	background: url('../srcimages/2.png') no-repeat center;
+	background: url('../images/dess.jpg') no-repeat center;
 	background-size: cover;
 	padding: 312px 0px; 
 }
@@ -3242,7 +3242,7 @@ ul{
 	background-color: rgba(27, 27, 27, 0.8);
 }
 .index_v3 .clv_banner_slider .clv_slide.slide2{
-	background: url('../images/dess.jpeg') no-repeat center;
+	background: url('../srcimages/2.png') no-repeat center;
 	background-size: cover;
 }
 .index_v3 .clv_banner_slider .clv_slide .clv_slide_inner h1{
