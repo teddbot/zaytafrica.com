@@ -3242,6 +3242,10 @@ ul{
 	background-color: rgba(27, 27, 27, 0.8);
 }
 .index_v3 .clv_banner_slider .clv_slide.slide2{
+	background: url('../srcimages/mockup.png') no-repeat center;
+	background-size: cover;
+}
+.index_v3 .clv_banner_slider .clv_slide.slide3{
 	background: url('../srcimages/2.png') no-repeat center;
 	background-size: cover;
 }
