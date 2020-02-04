@@ -3245,10 +3245,7 @@ ul{
 	background: url('../srcimages/mockup.png') no-repeat center;
 	background-size: cover;
 }
-.index_v3 .clv_banner_slider .clv_slide.slide3{
-	background: url('../srcimages/2.png') no-repeat center;
-	background-size: cover;
-}
+
 .index_v3 .clv_banner_slider .clv_slide .clv_slide_inner h1{
 	font-size: 72px;
 	max-width: 550px;
